@@ -38,7 +38,7 @@ Know more about the project.
 
 * **Anujesh Bansal** - *Initial work* - [anujeshify](https://github.com/anujeshify)
 
-See also the list of [contributors](https://github.com/anujeshify/Entertainment-Rating-Database-ERDb/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/anujeshify/TPCMS-Training-and-Placement-Cell-Management-System/graphs/contributors) who participated in this project.
 
 ## Acknowledgments
 
