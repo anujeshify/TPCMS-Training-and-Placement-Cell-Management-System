@@ -37,6 +37,7 @@ Know more about the project.
 ## Authors
 
 * **Anujesh Bansal** - *Initial work* - [anujeshify](https://github.com/anujeshify)
+* **Atish Ranjan Mahali** [atishmahali](https://github.com/atishmahali)
 
 See also the list of [contributors](https://github.com/anujeshify/TPCMS-Training-and-Placement-Cell-Management-System/graphs/contributors) who participated in this project.
 
